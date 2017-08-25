@@ -1,0 +1,9 @@
+/Volumes/Work2/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/bin/Debug/VirtualChat.exe.mdb
+/Volumes/Work2/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/bin/Debug/VirtualChat.exe
+/Volumes/Work2/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/obj/x86/Debug/VirtualChat.exe
+/Volumes/Work2/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/obj/x86/Debug/VirtualChat.exe.mdb
+/Users/leejw51/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/bin/Debug/VirtualChat.exe.mdb
+/Users/leejw51/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/bin/Debug/VirtualChat.exe
+/Users/leejw51/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/obj/x86/Debug/VirtualChat.exe
+/Users/leejw51/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/obj/x86/Debug/VirtualChat.exe.mdb
+/Users/leejw51/Git/hackday_server/ChatConsole/VirtualChat/VirtualChat/bin/Debug/LitJson.dll

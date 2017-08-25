@@ -1,0 +1,38 @@
+// [START declaration]
+syntax = "proto3";
+package main;
+// [END declaration]
+
+option java_package = "com.bumblebeesolution.mygame";
+option java_outer_classname = "AddressBookProtos";
+
+
+message BasicMessage {
+	string talk = 1;
+	int64 id = 2;
+}
+
+message Person {
+  string name = 1;
+  int64 id = 2;  // Unique ID number for this person.
+  string email = 3;
+  double value1 = 4;
+  
+
+  enum PhoneType {
+    MOBILE = 0;
+    HOME = 1;
+    WORK = 2;
+  }
+
+  message PhoneNumber {
+    string number = 1;
+    PhoneType type = 2;
+  }
+
+  repeated PhoneNumber phones = 5;
+}
+
+message AddressBook {
+  repeated Person people = 1;
+}

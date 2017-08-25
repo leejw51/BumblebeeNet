@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="VirtualChat/VirtualChat.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="VirtualChat/Program.cs">
+    <Files>
+      <File FileName="VirtualChat/Program.cs" Line="40" Column="1" />
+      <File FileName="VirtualChat/Queue.cs" Line="30" Column="25" />
+      <File FileName="VirtualChat/AppClient.cs" Line="150" Column="6" />
+      <File FileName="VirtualChat/Worker.cs" Line="25" Column="4" />
+      <File FileName="VirtualChat/WorkerSender.cs" Line="34" Column="1" />
+      <File FileName="VirtualChat/Packet.cs" Line="11" Column="18" />
+      <File FileName="VirtualChat/WorkerReceiver.cs" Line="17" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
